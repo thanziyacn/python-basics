@@ -1,2 +1,4 @@
-# python-basics
-My python learning journey and practice programs  .
+# Python Learning Journey
+
+## Day 1
+-Average calculator using user input

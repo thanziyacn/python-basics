@@ -1,7 +1,6 @@
-a=int(input("Enter first number :"))
-b= int(input("Enter second number:"))
-c=int(input("Enter third number:"))
+number = int(input("Enter a number :"))
 
-avg=(a+b+c)/3
-
-print("Average is:",avg)
+if number % 2 == 0:
+    print("Even number is Even")
+else:
+    print("The number is odd")

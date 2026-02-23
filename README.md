@@ -5,3 +5,6 @@
 
 ## Day 2
 -Even  / Odd checker using if-else
+
+## Day 3
+-Positive / Negative / Zero Checker using if-elif-else

@@ -8,3 +8,5 @@
 
 ## Day 3
 -Positive / Negative / Zero Checker using if-elif-else
+
+-Improved Average calculator(used float,formatting)

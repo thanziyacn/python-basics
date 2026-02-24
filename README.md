@@ -10,3 +10,6 @@
 -Positive / Negative / Zero Checker using if-elif-else
 
 -Improved Average calculator(used float,formatting)
+
+## Day 4
+~Grade calculator using multiple elif-else 

@@ -13,3 +13,7 @@
 
 ## Day 4
 ~Grade calculator using multiple elif-else 
+
+## Day 5
+-Simple unit converter 
+includes (speed,voltage,temperature)
